@@ -1,6 +1,9 @@
 # SiameseNets
 Implementation of SiameseNets for image classification 
 
+Applied on 2 datasets :
+- Digit Recognition (MNIST)
+- Face Recognition ([ORL Face dataset](https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html) )
 
 
 ***
