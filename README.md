@@ -21,7 +21,7 @@ The emphasis was on understanding the ability of Siamese Networks to create good
 ***
 ![Multiclass image examples](https://i.ibb.co/GVZJVQB/Webp-net-resizeimage-4.png)
 
-#### Face Recognition
+
 
 
 
